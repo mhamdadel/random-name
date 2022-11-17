@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1668397514 source:m:\c\random\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668141134 source:m:\c\random\mylibrary.c
+	<windows.h>
+	<time.h>
+	<errno.h>
+	"mylibrary.h"
+
+1668141146 m:\c\random\mylibrary.h
+	<windows.h>
+	<unistd.h>
+
+1668141134 source:m:\c\random student\mylibrary.c
+	<windows.h>
+	<time.h>
+	<errno.h>
+	"mylibrary.h"
+
+1668141146 m:\c\random student\mylibrary.h
+	<windows.h>
+	<unistd.h>
+
+1668404613 source:m:\c\random student\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylibrary.h"
+
